@@ -1,5 +1,5 @@
  var svgraph = new scadavis( { 
-          svgurl: "https://raw.githubusercontent.com/riclolsen/displayfiles/master/speedometer.svg" 
+          svgurl: "https://raw.githubusercontent.com/Henrique33br/Display/main/speedometer-svgrepo-com%20(1).svg" 
         });
         svgraph.setValue("TAG1", 0);
         // update at each .5 seconds
